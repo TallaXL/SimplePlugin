@@ -43,17 +43,16 @@ namespace SimplePlugin.Loader
                     {
                         ThreadPool.QueueUserWorkItem(new WaitCallback((obj) =>
                         {
-                            lockedFiles.Add(fi.FullName);
                             IPlugin plugin = ChoosePluginByExtension(Path.GetExtension(fi.FullName));
                             if (plugin != null)
                             {
+                                lockedFiles.Add(fi.FullName);
                                 IList<TradeFlow> items = plugin.ExctractData(fi.FullName);
+                                _log.AddLine(fi.FullName);
                                 _log.AddItems(items);
+                                File.Delete(fi.FullName);
+                                lockedFiles.Remove(fi.FullName);
                             }
-
-                            _log.AddLine(fi.FullName);
-                            File.Delete(fi.FullName);
-                            lockedFiles.Remove(fi.FullName);
                         }));
                     }
                 }
