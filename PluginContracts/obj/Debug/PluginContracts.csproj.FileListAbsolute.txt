@@ -1,0 +1,5 @@
+R:\SimplePlugin\PluginContracts\bin\Debug\PluginContracts.dll
+R:\SimplePlugin\PluginContracts\bin\Debug\PluginContracts.pdb
+R:\SimplePlugin\PluginContracts\obj\Debug\PluginContracts.csprojResolveAssemblyReference.cache
+R:\SimplePlugin\PluginContracts\obj\Debug\PluginContracts.dll
+R:\SimplePlugin\PluginContracts\obj\Debug\PluginContracts.pdb

@@ -1,0 +1,6 @@
+R:\SimplePlugin\ThirdPlugin\bin\Debug\ThirdPlugin.dll
+R:\SimplePlugin\ThirdPlugin\bin\Debug\ThirdPlugin.pdb
+R:\SimplePlugin\ThirdPlugin\bin\Debug\PluginContracts.dll
+R:\SimplePlugin\ThirdPlugin\bin\Debug\PluginContracts.pdb
+R:\SimplePlugin\ThirdPlugin\obj\Debug\ThirdPlugin.dll
+R:\SimplePlugin\ThirdPlugin\obj\Debug\ThirdPlugin.pdb

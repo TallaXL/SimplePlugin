@@ -1,0 +1,7 @@
+R:\SimplePlugin\FirstPlugin\bin\Debug\FirstPlugin.dll
+R:\SimplePlugin\FirstPlugin\bin\Debug\FirstPlugin.pdb
+R:\SimplePlugin\FirstPlugin\bin\Debug\PluginContracts.dll
+R:\SimplePlugin\FirstPlugin\bin\Debug\PluginContracts.pdb
+R:\SimplePlugin\FirstPlugin\obj\Debug\FirstPlugin.csprojResolveAssemblyReference.cache
+R:\SimplePlugin\FirstPlugin\obj\Debug\FirstPlugin.dll
+R:\SimplePlugin\FirstPlugin\obj\Debug\FirstPlugin.pdb
